@@ -57,7 +57,7 @@ function Flow() {
         <Controls />
       </ReactFlow>
     </div>
-  );
+  )
 }
  
 export default Flow;
